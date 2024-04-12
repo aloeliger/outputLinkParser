@@ -1,4 +1,4 @@
-#outputLinkParser
+# outputLinkParser
 Designed for making sense of CICADA FPGA output link dumps
 ## Setup
 ```
